@@ -1,0 +1,4 @@
+/collectionLyrics/*
+!/collectionLyrics/collectionLyrics/
+!/collectionLyrics/main.py
+!/collectionLyrics/scrapy.cfg
