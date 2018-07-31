@@ -1,0 +1,2 @@
+# collectionLyrics_and_wordcloud
+通过抓取QQ音乐网页版内容，收集周杰伦的歌曲歌词，分析歌词并生成歌词云图
